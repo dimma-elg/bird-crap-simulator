@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Buttons : MonoBehaviour
 {
-    public object pauseMenu;
+    
 
     public void StartGame()
     {
@@ -21,13 +21,7 @@ public class Buttons : MonoBehaviour
     {
         SceneManager.LoadScene("Damian");
     }
-    public void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            gameObject.SetActive(true);
-        }
-    }
+    public void 
 
     
 }
