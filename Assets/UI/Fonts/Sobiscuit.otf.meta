@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 38805e62fb6539746a386637f127fa01
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sobiscuit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9145e9a014a58414eb1f9af790c569e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
